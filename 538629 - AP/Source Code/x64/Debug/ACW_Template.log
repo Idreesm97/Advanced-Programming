@@ -1,0 +1,35 @@
+﻿  Arc.cpp
+  Main.cpp
+c:\users\idrees\desktop\advanced programming\538629 - ap\source code\navigation.h(26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\idrees\desktop\advanced programming\538629 - ap\source code\navigation.h(26): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+c:\users\idrees\desktop\advanced programming\538629 - ap\source code\navigation.h(27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\idrees\desktop\advanced programming\538629 - ap\source code\navigation.h(27): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  Navigation.cpp
+c:\users\idrees\desktop\advanced programming\538629 - ap\source code\navigation.h(26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\idrees\desktop\advanced programming\538629 - ap\source code\navigation.h(26): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+c:\users\idrees\desktop\advanced programming\538629 - ap\source code\navigation.h(27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\idrees\desktop\advanced programming\538629 - ap\source code\navigation.h(27): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+c:\users\idrees\desktop\advanced programming\538629 - ap\source code\navigation.cpp(8): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\idrees\desktop\advanced programming\538629 - ap\source code\navigation.cpp(276): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\idrees\desktop\advanced programming\538629 - ap\source code\navigation.cpp(278): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\idrees\desktop\advanced programming\538629 - ap\source code\navigation.cpp(362): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\idrees\desktop\advanced programming\538629 - ap\source code\navigation.cpp(364): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\idrees\desktop\advanced programming\538629 - ap\source code\navigation.cpp(375): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\idrees\desktop\advanced programming\538629 - ap\source code\navigation.cpp(502): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\idrees\desktop\advanced programming\538629 - ap\source code\navigation.cpp(504): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\idrees\desktop\advanced programming\538629 - ap\source code\navigation.cpp(588): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\idrees\desktop\advanced programming\538629 - ap\source code\navigation.cpp(590): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\idrees\desktop\advanced programming\538629 - ap\source code\navigation.cpp(601): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\idrees\desktop\advanced programming\538629 - ap\source code\navigation.cpp(792): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\idrees\desktop\advanced programming\538629 - ap\source code\navigation.cpp(842): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\idrees\desktop\advanced programming\538629 - ap\source code\navigation.cpp(899): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\idrees\desktop\advanced programming\538629 - ap\source code\navigation.cpp(901): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Node.cpp
+c:\users\idrees\desktop\advanced programming\538629 - ap\source code\navigation.h(26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\idrees\desktop\advanced programming\538629 - ap\source code\navigation.h(26): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+c:\users\idrees\desktop\advanced programming\538629 - ap\source code\navigation.h(27): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\idrees\desktop\advanced programming\538629 - ap\source code\navigation.h(27): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+  Generating Code...
+c:\users\idrees\desktop\advanced programming\538629 - ap\source code\navigation.cpp(907): warning C4715: 'Navigation::findDistanceNode': not all control paths return a value
+c:\users\idrees\desktop\advanced programming\538629 - ap\source code\navigation.cpp(670): warning C4715: 'Navigation::ProcessCommand': not all control paths return a value
+  ACW_Template.vcxproj -> C:\Users\Idrees\Desktop\Advanced Programming\538629 - AP\Source Code\x64\Debug\ACW_Template.exe
